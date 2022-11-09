@@ -1,0 +1,9 @@
+https://peps.python.org/pep-0008/
+
+https://www.digitalocean.com/community/tutorials/python-for-loop-example
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
+
+https://keytodatascience.com/export-pandas-dataframe-to-csv/
+
+https://www.geeksforgeeks.org/python-pandas-dataframe-min/
